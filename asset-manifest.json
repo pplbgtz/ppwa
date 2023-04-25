@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d2b43575.js",
+    "static/media/white-curved.jpeg": "/static/media/white-curved.a5b7db662b0b14ab5534.jpeg",
+    "static/media/waxdata.xlsx": "/static/media/waxdata.c7216f1010cabd0cd258.xlsx",
+    "static/media/anchordata.xlsx": "/static/media/anchordata.953e6c43a89f53733b5e.xlsx",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/js/main.d2b43575.js"
+  ]
+}
